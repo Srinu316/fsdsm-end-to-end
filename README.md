@@ -1,4 +1,4 @@
-# thus is my end to end project
+# this is my end to end project
 
 # first initialize the git
 
@@ -8,7 +8,8 @@ git init
 
 '''
 git add.txt
-hit add.
+
+git add .
 '''
 
 '''
