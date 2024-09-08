@@ -1,3 +1,6 @@
 pandas
 scikit-learn
 numpy
+
+
+-e .    # here (-e) means editable and (.) means for the currenjt directory
