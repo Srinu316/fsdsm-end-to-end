@@ -2,5 +2,7 @@ pandas
 scikit-learn
 numpy
 
+ipykernel
+
 
 -e .    # here (-e) means editable and (.) means for the currenjt directory
